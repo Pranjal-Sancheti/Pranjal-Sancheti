@@ -1,6 +1,8 @@
 ### Hi there, I'm Pranjal Sancheti. 👋
 <!--
 **Pranjal-Sancheti/Pranjal-Sancheti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+<br />
 
 ## I'm a Computer Science Student. I am here to learn more interesting things and contribute as much as I can. 
 
@@ -8,7 +10,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 😄 Pronouns: She/her
-- 💬 Ask me about: Anything, I'll try to help as much as possible
+- 💬 Ask me about anything, I'll try to help as much as possible
 - 📫 How to reach me: pranjalsancheti27@gmail.com
 - ⚡ Fun fact: I love to read novels and mangas
 
