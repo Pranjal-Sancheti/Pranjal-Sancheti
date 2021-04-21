@@ -3,15 +3,17 @@
 I'm a Computer Science Student. I am here to learn more interesting things and contribute as much as I can. 
 
 - 🌱 I’m currently learning everything 🤣
-- 😄 Pronouns: She/her
+- 😄 Pronouns: She / Her
 - 💬 Ask me about anything, I'll try to help as much as possible
 - 📫 How to reach me: pranjalsancheti27@gmail.com
 - ⚡ Fun fact: I love to read novels and mangas
 
 ### Connect with me:
 
-[<img align="left" alt="Pranjal Sancheti | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Pranjal Sancheti | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Pranjal Sancheti | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.instagram.com/_.glow_getter_/)
+[<img align="left" alt="Pranjal Sancheti | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://linkedin.com/in/pranjalsancheti)
+
+<br>
 
 ### Languages:
 
@@ -22,6 +24,3 @@ I'm a Computer Science Student. I am here to learn more interesting things and c
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Kotiln" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 <img align="left" alt="MySql" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/mysql/mysql.png" />
-
-[instagram]: https://www.instagram.com/_.glow_getter_/
-[linkedin]: https://linkedin.com/in/pranjalsancheti
