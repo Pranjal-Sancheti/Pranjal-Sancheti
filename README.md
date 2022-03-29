@@ -1,6 +1,6 @@
 ### Hi there, I'm Pranjal Sancheti. 👋
 
-I'm a Computer Science Student. I am here to learn more interesting things and contribute as much as I can. 
+I'm a Computer Science Student. I am here to learn and contribute as much as I can. 
 
 - 🌱 I’m currently learning everything 🤣
 - 😄 Pronouns: She / Her
